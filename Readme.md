@@ -7,3 +7,4 @@ En este repositorio encontrarán las tareas y proyectos realizados en la clase _
 - [Tarea 1](Tarea_1.md) 
 - [Tarea 2](Tarea_2.pdf) 
 - [Tarea 3](Tarea_3.md) 
+- [Tarea 4](Tarea_4.sql) 
