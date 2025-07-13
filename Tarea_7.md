@@ -1,7 +1,7 @@
 # Universidad Autónoma de Nuevo León
 ## Maestría en Ciencia de datos
 ### Eric Brandon García Luján
-### Tarea 6
+### Tarea 7
 
 Para esta tarea tenemos el objetivo de usar funciones de agregaciones y mediante estas calcular lo siguiente:
 
