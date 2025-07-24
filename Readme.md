@@ -10,3 +10,4 @@ En este repositorio encontrarán las tareas y proyectos realizados en la clase _
 - [Tarea 4](Tarea_4.sql) 
 - [Tarea 6](Tarea_6.md) 
 - [Tarea 7](Tarea_7.md) 
+- [Tarea 8](Tarea_8.md) 
